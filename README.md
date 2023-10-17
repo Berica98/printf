@@ -1,5 +1,5 @@
 0x11. C - printf
-This is a project done by George Erica and Mba ifeanyi
+#This is a project done by George Erica and Mba Ifeanyi
 For this project, we were expected to look at these concepts:
 Group Projects
 Pair Programming - How To
